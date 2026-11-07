@@ -1,0 +1,19 @@
+# 答引
+
+> 答引提供生成式引擎优化代运营服务，从品牌事实库到内容发布与可见性报告，让品牌出现在 AI 的回答里。
+
+官网：https://www.anscite.com/
+
+## 页面
+
+- [答引 GEO 代运营 - 让品牌出现在 AI 的回答里](https://geo.anscite.com/): 答引提供生成式引擎优化代运营服务，从品牌事实库到内容发布与可见性报告，让品牌出现在 AI 的回答里。
+- [关于我们：GEO 代运营 · 答引](https://geo.anscite.com/about/): 答引从 GEO 代运营角度介绍公司：我们如何通过事实库、选词、生成、审稿和发布，让品牌出现在 AI 的回答里。
+- [项目案例：GEO 代运营 · 答引](https://geo.anscite.com/cases/): 答引案例：官网备案、迁到国内服务器、2026 年 10 月 25 日，答引推广站的首页和关于页重。
+- [常见问题：GEO 代运营 · 答引](https://geo.anscite.com/faq/): 答引常见问题：GEO 代运营具体做什么？代运营的内容如何保证真实？内容发布在哪里？如何了解品牌在 AI 回答中的表现？如何联系答引咨询 GEO 代运营？
+- [资讯：GEO 代运营 · 答引](https://geo.anscite.com/articles/): 答引资讯：怎么让品牌出现在 DeepSeek、豆包这些 AI 的回答里、企业选 AI 搜索优化服务商，先看这五个判断点。
+- [联系我们：GEO 代运营 · 答引](https://geo.anscite.com/contact/): 联系答引，咨询 GEO 代运营服务。
+
+## 资讯
+
+- [怎么让品牌出现在 DeepSeek、豆包这些 AI 的回答里 · 答引](https://geo.anscite.com/articles/geo-brand-ai-answers/): AI 回答里的品牌露出不是靠运气。本文讲清生成式引擎优化的做法：把内容做成 AI 愿意引用的形态，再用问题探测验证效果。
+- [企业选 AI 搜索优化服务商，先看这五个判断点 · 答引](https://geo.anscite.com/articles/how-to-choose-geo-vendor/): 选 AI 搜索优化服务商，重点看是否承诺排名、有无可复查的探测数据、内容是否核对出处、是否批量生成，以及站点与内容归属。
